@@ -1,4 +1,5 @@
-This project is based on the idea of a version control system, a system that records changes to a file or set of files over time so that you can recall specific versions later.
+This project is based on the idea of a version control system, a system that records changes to a file or set of files over 
+time so that you can recall specific versions later.
 
 Steps to run the project
 

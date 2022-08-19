@@ -10,6 +10,7 @@ void printhelp()
 	printf("changerepo:		changes current file system\n");
 	printf("displaycontent:		diplays contents of file\n");
 	printf("checksystem:		displays file system created\n");
+	printf("filediff:		To find out difference between two files\n");
 	printf("search:			To find out word in file\n");
 	printf("searchfile:		To find out if the file exists or not\n");
 	printf("edit:			Append the file\n");
